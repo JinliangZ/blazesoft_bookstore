@@ -7,5 +7,6 @@ or download the repository:
 
 using:
 
-yarn install
+yarn install;
+
 yarn start
