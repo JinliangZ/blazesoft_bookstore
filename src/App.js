@@ -4,9 +4,7 @@ import AddButton from './components/Buttons/AddButton';
 import Main from './components/Pages/MainPage';
 
 
-function App() {
-  
- 
+function App() { 
 
   return (
     <BrowserRouter>
@@ -16,7 +14,8 @@ function App() {
         <AddButton />
 
         <Switch>
-          <Route exact path = '/' component = {Main} />  
+          <Route exact path = '/' component = {Main} /> 
+          <Route exact path = '/blazesoft_bookstore' component = {Main} /> 
         </Switch>
         
         
