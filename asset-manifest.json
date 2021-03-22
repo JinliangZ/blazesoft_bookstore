@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/blazesoft_bookstore/static/css/main.88ac4d36.chunk.css",
+    "main.js": "/blazesoft_bookstore/static/js/main.a368eb24.chunk.js",
+    "main.js.map": "/blazesoft_bookstore/static/js/main.a368eb24.chunk.js.map",
+    "runtime-main.js": "/blazesoft_bookstore/static/js/runtime-main.093705da.js",
+    "runtime-main.js.map": "/blazesoft_bookstore/static/js/runtime-main.093705da.js.map",
+    "static/js/2.f7663e36.chunk.js": "/blazesoft_bookstore/static/js/2.f7663e36.chunk.js",
+    "static/js/2.f7663e36.chunk.js.map": "/blazesoft_bookstore/static/js/2.f7663e36.chunk.js.map",
+    "static/js/3.64488d0a.chunk.js": "/blazesoft_bookstore/static/js/3.64488d0a.chunk.js",
+    "static/js/3.64488d0a.chunk.js.map": "/blazesoft_bookstore/static/js/3.64488d0a.chunk.js.map",
+    "index.html": "/blazesoft_bookstore/index.html",
+    "static/css/main.88ac4d36.chunk.css.map": "/blazesoft_bookstore/static/css/main.88ac4d36.chunk.css.map",
+    "static/js/2.f7663e36.chunk.js.LICENSE.txt": "/blazesoft_bookstore/static/js/2.f7663e36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.093705da.js",
+    "static/js/2.f7663e36.chunk.js",
+    "static/css/main.88ac4d36.chunk.css",
+    "static/js/main.a368eb24.chunk.js"
+  ]
+}
