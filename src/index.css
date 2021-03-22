@@ -11,3 +11,84 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+span,h4,p{
+  text-align: left;
+}
+span{
+  display: block;
+}
+.book-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.delete-button{
+  margin-right: 20%;
+}
+
+.book-list{
+  margin-left: 15%;
+  margin-top: 3%;
+}
+
+.modal {
+  background-color: #fff;
+  width: 50%;
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+.modal-button{
+  position: relative;
+  bottom: 10px;
+  display: flex;
+  justify-content: flex-end;
+  
+}
+
+
+.input-field{
+  margin:10px 20px;
+}
+
+label{
+  display: block;
+  margin-bottom: 10px;
+  color: #313131;
+  font-weight: 1000;
+}
+.book-button{
+  text-align: center;
+  margin-left:  0;
+  
+}
+
+button{
+  display: block;
+  position: relative;
+  right:1%
+
+}
+
+h1{
+  position: relative;
+  right: 1%;
+}
+
+.btn{
+  text-transform: uppercase;
+  padding:5px;
+  background: transparent;
+   
+}
+
+h3{
+  margin-left: 5%;
+  color: red;
+}
+
+em{
+  color:brown;
+}
